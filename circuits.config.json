@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LogicGate",
+    "protocol": "groth16",
+    "circuit": "LogicGate/circuit.circom",
+    "input": "LogicGate/input.json",
+    "wasm": "LogicGate/out/circuit.wasm",
+    "zkey": "LogicGate/out/LogicGate.zkey",
+    "vkey": "LogicGate/out/LogicGate.vkey",
+    "r1cs": "LogicGate/out/LogicGate.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
